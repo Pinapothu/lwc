@@ -1,1 +1,4 @@
-var 
+var name="sales"
+var name1="force"
+var str="my name is "+name +"my initial name is"+name1;
+console.log(str);
